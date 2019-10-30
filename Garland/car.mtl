@@ -1,0 +1,89 @@
+map_Kd trackObj_old.jpg
+newmtl CubeSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG3
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG4
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG5
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CubeSG6
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CylinderFBXASC046005SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CylinderFBXASC046005SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl CylinderFBXASC046005SG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl TextSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00

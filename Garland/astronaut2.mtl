@@ -1,0 +1,9 @@
+newmtl initialShadingGroup
+illum 4
+map_Kd astronaut2.jpg
+Kd 0.50 0.50 0.50
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00

@@ -1,0 +1,9 @@
+newmtl initialShadingGroup
+illum 4
+map_Kd trackObj.jpg
+Kd 0.50 0.50 0.50
+Ka 1.15 1.15 1.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 256.00
